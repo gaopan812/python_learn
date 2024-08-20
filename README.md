@@ -1,2 +1,2 @@
 # python_learn
-python自我联系
+python和git的练习仓库。
