@@ -22,7 +22,7 @@ contour = ax.contour(X, Y, Z, [0], colors='red')
 # 设置图形属性
 ax.set_title('Heart Curve')
 ax.axis('equal')  # 确保x轴和y轴的比例相同
-ax.axis('off')    # 关闭坐标轴
+# ax.axis('off')    # 关闭坐标轴
 
 # 显示图形
 plt.show()
